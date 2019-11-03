@@ -4,7 +4,7 @@
 #
 Name     : R-gbRd
 Version  : 0.4.11
-Release  : 12
+Release  : 13
 URL      : https://cran.r-project.org/src/contrib/gbRd_0.4-11.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/gbRd_0.4-11.tar.gz
 Summary  : Utilities for processing Rd objects and files
